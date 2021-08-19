@@ -11,6 +11,13 @@
 >> 
 >> NOR
 >> 
->> XOR
-## :boom: Importance of logic gates :
+>> XOR / Exclusive OR
+>> 
+>> Exclusive NOR
 
+
+
+## :boom: Importance of logic gates :
+1. Used to carry out logical operations on single or multiple binary inputs and give one binary output.
+2. Used in many electronic devices such as safety thermostat, push-button lock, automatic watering system, light-activated burglar alarm etc.
+3. Regulate the flow of electricity through an electronic circuit by receiving and modifying binary input and output.
