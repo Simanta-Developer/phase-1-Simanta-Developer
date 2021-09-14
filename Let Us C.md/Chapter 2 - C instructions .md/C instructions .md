@@ -1,0 +1,1 @@
+  # :boom: Types of instructions :
