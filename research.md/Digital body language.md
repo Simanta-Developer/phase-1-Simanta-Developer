@@ -1,3 +1,4 @@
 # :boom: Digital body language :
 * [Digital body language (DBL)](https://whatis.techtarget.com/definition/digital-body-language-DBL) is the aggregate of an individual’s passive and active online activity. 
-* 
+* A person's digital body language communicates intentions non-verbally through passive and active actions such as spending time on a particular web page or chatting with a website's virtual assistant.
+* **Online tracking and business intelligence (BI)** technologies can help an organization analyze a potential buyers’ DBL by analyzing which emails have been opened, how many times a prospect has completed forms on a company's website, how often they visited the site, how recent the visits were, how many pages they visited on the sites, what content they viewed and how they interact with the companies social media.
