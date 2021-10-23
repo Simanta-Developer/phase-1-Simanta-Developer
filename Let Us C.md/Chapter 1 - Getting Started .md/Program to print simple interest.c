@@ -6,7 +6,7 @@ int main()
   printf("enter values of p,n,r :");
   scanf("%d%d%f", &p,&n,&r);
   si = p * n * r / 100 ;
-  printf("value of simple intrest is : %f\n",si);
+  printf("value of simple interest is : %f\n",si);
   return 0 ; 
 }  
   
