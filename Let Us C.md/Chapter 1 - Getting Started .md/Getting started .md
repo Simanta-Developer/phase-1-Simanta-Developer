@@ -26,7 +26,7 @@
 * **Ampersand(&)** denotes *address of* operator. It gives the location number(address) used by the variable in memory.
 * **main()** is a function that must always return a integer value. 0 indicates success and non-zero number if main() is fail to do intended work.
 * **Comments** is used in a C program to convey some information to the program which is ignorged by the compilier for execution. Use /* ... */ for comment. 
-* Every compiler is targeted towards a particular OS + microprocessor combination and this combination is known as platform, A compiler created for one platform doesn't work with other platform.
+* Every compiler is targeted towards a particular **OS + microprocessor** combination and this combination is known as **platform**, A compiler created for one platform doesn't work with other platform.
 * standard steps for interchanging contents of two variables :
 ``` c program 
 t = a; a = b; b = t;
