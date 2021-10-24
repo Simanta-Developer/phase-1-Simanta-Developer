@@ -11,12 +11,13 @@ Dated : 26/09/2021
 :point_right: We should work as a team and help each other constructively to reach our desired potential.</br>
 
 ### :high_brightness: Some highlights about the meeting:
-:red_circle: I was the speech evaluator for the meeting.</br>
+:red_circle: The theme of the meeting was **turn your obstacles into oppurtunity**.</br>
+:red_circle: I was **speech evaluator 2** in the meeting.</br>
 :red_circle: Meeting was conducted sucessfully without any hassle.</br>
 :red_circle: Q/A round was also conducted at the end of the introductary speech.</br>
 :red_circle: At last Ankit sir told us to prepare all the questions we are going to ask beforehand and the questions should be relevant in the present time.
                             
-###  At last I want to thank Gourav sir(cheif guest), Ankit sir and all my algomagnet team to sucessfully conduct the meeting. :smile:
+###  At last I want to thank Gourav sir(cheif guest), Ankit sir and all my algomagnet team to conclude the meeting sucessfully. :smile:
 
 ![WhatsApp Image 2021-09-26 at 21 07 43](https://user-images.githubusercontent.com/76246106/134817754-1fbd8934-ff30-4762-a62d-af9511a1df51.jpeg)
  
