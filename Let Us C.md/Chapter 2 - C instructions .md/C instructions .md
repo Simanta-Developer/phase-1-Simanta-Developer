@@ -45,7 +45,7 @@ j = x*i*9/2.0
 ```
 * There is no operator in C to perform exponentiation operation. Exponentiation is cariied out by using pow() function as shown below.
 ``` c program
-	float a;
+  float a;
   a = pow(3,4);  
 ```
 #include<math.h> needs to be included while using pow().
