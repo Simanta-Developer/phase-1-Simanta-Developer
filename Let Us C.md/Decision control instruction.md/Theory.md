@@ -83,9 +83,9 @@ operations | Type
  int big, a, b, c ;
  big = (a > b ? (a > c ? 3 : 4) : (b > c 6 : 8));
  ```
- * Always parenthesize assignment operation if used with ?:. Otherwise it will give [lvalue](https://www.geeksforgeeks.org/else-without-if-and-l-value-required-error-in-c/) error.
+ * Always parenthesize assignment operation if used with ?: . Otherwise it will give [lvalue](https://www.geeksforgeeks.org/else-without-if-and-l-value-required-error-in-c/) error.
  ``` c program
  a > b ? g = a : ( g = b) ;
  ```
- In absence of parentheses, the compiler belives that **b** is being assigned to the result of the expression to the left of second **=**. Hence it shows error.
+ In absence of parentheses, the compiler belives that **b** is being assigned to the result of the expression to the left of second **=**. Hence it shows error. It can be overcomed by enclosing : part of the statement by parentheses. 
  
