@@ -50,6 +50,42 @@ else (per >= 60)
 ## :rocket: Use of logical operators - yes/no problem:
 * Logical operators are also useful when any complicated logic boils down only two answer : yes and no.
 ## :rocket: The ! operator :
-* This operator reverses the result the expression it operates on.
-
-
+* This operator reverses the result the expression it operates on. For example
+``` c program
+!(y<10)
+```
+if **y** is less than 10 then it will be false, since **(y < 10)** is true.
+## :rocket: Hierchy of operators :
+operations | Type
+-----------|------------------------
+!          | Logical NOT  
+/ * %      | Arithmetic and modulus
+ *+* *-*   | Arithmetic
+< > <= >=  | Relational
+ == !=     | Relational
+ &&        | Logical AND
+ ll        | Logical OR
+  =        | Assignment
+ ## :rocket: Conditional Operators :
+ * Conditional operators **?** **:** are ternary operators. General form is :
+ ``` c program
+ expression 1 ? expression 2 : expression 3
+ ```
+ * They form a kind of forshortened **if-then-else**.
+ * ?: always go together and can have only one statement each.
+ * it is not necessary that the statement after ? or : be only arithmetic. For example:
+ ``` c program
+ char a = 'z';
+ printf("%c",(a >= 'a' ? a : '!'));
+ ```
+ * The conditional operators can also ne nested as shown below :
+ ``` c program
+ int big, a, b, c ;
+ big = (a > b ? (a > c ? 3 : 4) : (b > c 6 : 8));
+ ```
+ * Always parenthesize assignment operation if used with ?:. Otherwise it will give [lvalue](https://www.geeksforgeeks.org/else-without-if-and-l-value-required-error-in-c/) error.
+ ``` c program
+ a > b ? g = a : ( g = b) ;
+ ```
+ In absence of parentheses, the compiler belives that **b** is being assigned to the result of the expression to the left of second **=**. Hence it shows error.
+ 
