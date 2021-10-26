@@ -30,3 +30,5 @@ while (j > 10 && (b > 15 || c < 20))  ;
 * **+=** is called **compound assignment operator**. Other compound ssignment operators are **-=**, ***=** , **/=** and **%=**.
 * `j = i++`: first assigns the value of i to j, then increment i. Here **++** operator is known is **post-increment** operator.
 * `j = ++i`: first increments i, then assingns the incremented value to j. Here **++** operator is known is **pre-increment** operator.
+## :chart_with_upwards_trend: The *for* loop :
+
