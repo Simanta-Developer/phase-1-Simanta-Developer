@@ -17,7 +17,7 @@
 >>
 >> So the +6 is represented in the 5-bit register as 0 0110.
 >>
->> The -6 is represented in the 5-bit register in the following way:
+>> The -6 is represented in the 5-bit register in the following ways:
 >>
 >> +6=0 0110
 >> Now, find the 1's complement of the number 0 0110, i.e. 1 1001.
